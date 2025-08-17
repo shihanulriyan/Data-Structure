@@ -1,0 +1,18 @@
+N = 1000
+
+Constand:       o(1)           -> 1
+Linear:         o(N)           -> 1000
+Logarithmic:    o(logN)        -> 10
+square root:    o(square(N))   -> 32
+quadratic:      o(N*N)         -> 1000000
+Linearithmic:   o(NlogN)       -> 10000
+
+
+
+
+Constand:       o(1)
+Logarithmic:    o(logN)
+square root:    o(sqrt(N))
+Linear:         o(N)
+Linearithmic:   o(NlogN)
+quadratic:      o(N*N)
